@@ -1,0 +1,12 @@
+Priya: Thanks everyone for joining. Let's start with the beta launch status.
+Karthik: The API integration is stable now. We decided to freeze the backend scope this week.
+Priya: Great. Let's ship the beta on Nov 15. That's the decision, the date is final.
+Priya: Rahul, can you finalize the pricing deck by Friday?
+Rahul: Sure, I'll share the draft with Sneha for review before that.
+Priya: Anita, please recheck last week's open QA items. It's urgent because they block the release.
+Anita: Understood. I will run the full regression suite by tomorrow.
+Sneha: I'll update the onboarding screens and send the mockups next Monday.
+Priya: We also need to set up the customer feedback survey. Someone should draft the questions.
+Karthik: We agreed to move the database migration to the weekend so users aren't affected.
+Priya: Perfect. Action item: prepare the launch announcement email.
+Priya: That's all for today, thanks everyone.
