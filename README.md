@@ -1,6 +1,6 @@
 # 🎙️ AI Meeting Assistant – Groq-powered agents, voice + chat, email
 
-Every agent calls the Groq API (default model `llama-3.3-70b-versatile`); voice input uses Groq Whisper (`whisper-large-v3-turbo`).
+Every agent calls the Groq API (default model `openai/gpt-oss-20b`); voice input uses Groq Whisper (`whisper-large-v3-turbo`).
 No offline/rule-based mode: the app will not start without a Groq key.
 
 ## Setup
